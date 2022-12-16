@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinnvm" alt="kevinnvm" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Javascript, Laravel, and Next.JS**
+- 🌱 I’m currently learning **PHP, Javascript, Laravel, and Express.JS**
 
 - 👨‍💻 All of my projects are available at [n/a at the moment](n/a at the moment)
 
